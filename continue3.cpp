@@ -16,6 +16,6 @@ int main ()
         }
         cout << i;
        }
-       cout <<"\n";
+       cout <<"\n";`
     }
 }
